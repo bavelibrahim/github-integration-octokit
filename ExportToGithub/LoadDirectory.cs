@@ -21,7 +21,7 @@ namespace ExportToGithub
             fileExists = File.Exists(currentDirectory);
         }
 
-        public void log() 
+        public void log()
         {
             Console.WriteLine("Current Directory: " + currentDirectory);
             Console.WriteLine("File Exists: " + fileExists);

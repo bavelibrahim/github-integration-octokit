@@ -33,8 +33,6 @@ namespace ExportToGithub
                     Console.WriteLine("Reading Configuration File.....");
                     return (Configuration)serializer.Deserialize(file, typeof(Configuration));
                 }
-
-
             }
             catch (FileNotFoundException)
             {
