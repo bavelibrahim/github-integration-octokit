@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AhFP14ttpYblpPrS/yh9tD4+u35sEK8Sr06NvhlcAZjeoGQbFn8vdC0GT+L9Yd6PfMQi1KN+1mLsV+oFOyR2cQ==",
+  "success": true,
+  "projectFilePath": "C:\\TrakSYS Github Integration\\VS Project\\ExportToGithub\\ExportToGithub\\ExportToGithub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavel.ibrahim\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\pavel.ibrahim\\.nuget\\packages\\octokit\\7.1.0\\octokit.7.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
